@@ -1,4 +1,4 @@
-# Advanced_text_to_image_generator
+
 
 # 🎨 Advanced Text-to-Image Generator (Stable Diffusion 2)
 
